@@ -1,7 +1,7 @@
 # Self-Pruning Neural Network — Case Study Report
 
-**Author:** [Your Name]  
-**Date:** June 2025  
+**Author:** [Deepanshi]  
+**Date:** April 2026  
 **Dataset:** CIFAR-10 · **Framework:** PyTorch
 
 ---
